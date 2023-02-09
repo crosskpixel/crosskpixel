@@ -11,12 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Weeksjs**
 
-- 🤝 I’m looking for help with **HateMakeMenus**
-
-- 👨‍💻 All of my projects are available at [(coming soon)]((coming soon))
-
-- 📝 I regularly write articles on [(coming soon)]((coming soon))
-
 - 💬 Ask me about **React Native, React, VueJS, Angular**
 
 - 📫 How to reach me **igorpraxedeslinux@gmail.com**
