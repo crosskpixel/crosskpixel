@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Particular**
 
-- 🌱 I’m currently learning **English Language and Math**
+- 🌱 I’m currently learning **English Language**
 
 - 💬 Ask me about **React Native, React, VueJS, Angular, Nest, AWS**
 
 - 📫 How to reach me **igorpraxedeslinux@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/zHbThwW3j](https://resume.io/r/zHbThwW3j)
-
-- ⚡ Fun fact **I like to teach people eventually to avoid making my mistakes or problems that I faced due to lack of mentoring**
+- 📄 Visit my website and know more about my experiences [https://igorpancheski.dev](https://igorpancheski.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
