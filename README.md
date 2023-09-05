@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crosskpixel" alt="crosskpixel" /></a> </p>
 
-- 🔭 I’m currently working on **Particular**
+- 🔭 I’m currently working on https://ordenhafacil.com.br
 
-- 🌱 I’m currently learning **English Language**
+- 🌱 I’m currently learning **English Language** and **Marketing for Saas**
 
-- 💬 Ask me about **React Native, React, VueJS, Angular, Nest, AWS**
+- 💬 Ask me about **React Native, React, VueJS, Angular, Nest, AWS, Java**
 
 - 📫 How to reach me **igorpraxedeslinux@gmail.com**
 
