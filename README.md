@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Pancheski</h1>
-<h3 align="center">I like to develop software covering all your needs, frontend and backend development using the best resources to do the raw work ( IO, Processing, Memory Usage ) with the objective of having a cheap and efficient infrastructure basically. I appreciate new technologies but this is a criticism of developers who don't test their code and do minimal performance validation. Your project will grow believe me. Make good use of computing resources.</h3>
+<h3 align="center">I like to create tools that help people have more time to devote to what really matters.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crosskpixel&label=Profile%20views&color=0e75b6&style=flat" alt="crosskpixel" /> </p>
 
