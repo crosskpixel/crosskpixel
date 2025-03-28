@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on https://ordenhafacil.com.br
 
-- 🌱 I’m currently learning about increase $MRR with GrowthHacking
-
 - 💬 Ask me about **React Native, React, VueJS, Angular, Nest, AWS, Java**, but I'm a generalist and opt for delivered value rather than used technology
 
 - 📫 How to reach me **igorpraxedeslinux@gmail.com**
