@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on https://ordenhafacil.com.br
-- - 🔭 I’m currently working on https://linguist.works
+- 🔭 my own learning tool improved and available to the public for free (until now) https://linguist.works
 
 - 💬 Ask me about **React Native, React, VueJS, Angular, Nest, AWS, Java**, but I'm a generalist and opt for delivered value rather than used technology
 
